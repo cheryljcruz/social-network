@@ -24,3 +24,11 @@
 ## Usage
 
 - To use this application you must first run `npm start` in the terminal and test the routes in insomnia. Watch this video for a better understanding: 
+
+   - ![User route](https://github.com/cheryljcruz/social-network/blob/main/assets/videos/USER%20routes%20social%20network.mp4)
+   - ![Thought route](https://github.com/cheryljcruz/social-network/blob/main/assets/videos/THOUGHT%20route%20social%20network.mp4)
+
+_Other method to view video_:
+
+   - User route https://drive.google.com/file/d/1_Ei71U7tJegwiQrgv2G5z8jtrW6QH6O7/view
+   - Thought route https://drive.google.com/file/d/16jGcNPauhdjOxd0lXCKUhG_qbjHERJFH/view
