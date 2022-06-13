@@ -19,7 +19,10 @@
 
 ## Installation
 
-- To install please run `npm install` then `npm i mongoose express moment`
+- To install:
+
+   * clone repository
+   * run `npm install` then `npm i mongoose express moment`
 
 ## Usage
 
